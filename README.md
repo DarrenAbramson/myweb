@@ -19,7 +19,7 @@ Open questions:
 
 The experience of browsing the directory structure of the public face of `myweb.dal.ca` is a bit like walking down the stacks of a library. You run your virtual hands along the spines, stop and flip through a person's stories. Maybe we shouldn't delete this stuff.
 
-Also, the fact that some Chemistry professors used this resource as a way to experiment with technology and create works of public art suggests that maybe this private sandbox webhosting is a good resource to provide to a University community.
+Also, the fact that some Chemistry professors used this resource as a way to experiment with technology and create works of public art suggests that maybe this private sandbox webhosting is a good resource to provide to a University community. It's perhaps not suprising that Dr. Aue [was an expert in chromatography](https://scholar.google.ca/scholar?hl=en&q=aue+chromatography).
 
 I'd be happy to tell you at great length why it matters that such a resource be hosted on Canadian soil, ideally within the control of job-secure locally staffed IT people, but that might get too boring.
 
