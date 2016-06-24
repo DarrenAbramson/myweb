@@ -21,6 +21,6 @@ The experience of browsing the directory structure of the public face of `myweb.
 
 Also, the fact that some Chemistry professors used this resource as a way to experiment with technology and create works of public art suggests that maybe this private sandbox webhosting is a good resource to provide to a University community.
 
-I'd be happy to tell you at great length why it matters that such a resource be hosted on Canadian soil, ideally within the control of job-secure locally staffed IT people, but that might get to boring.
+I'd be happy to tell you at great length why it matters that such a resource be hosted on Canadian soil, ideally within the control of job-secure locally staffed IT people, but that might get too boring.
 
 
